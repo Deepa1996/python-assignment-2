@@ -1,0 +1,5 @@
+f=open("dee.txt")
+line=f.readlines()
+print(line[0])
+print(line[1])
+print(line[2])
